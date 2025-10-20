@@ -6,6 +6,7 @@
 ![MDX](https://img.shields.io/badge/MDX-Calculations-orange)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Live%20Connection-yellow?logo=power-bi&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-2022-red?logo=microsoft-sql-server&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-2022-purple?logo=visual-studio&logoColor=white)
 
 This project demonstrates product line profitability analysis using **SQL Server Analysis Services Multidimensional** with **AdventureWorks DW**. The solution implements role-playing Date dimensions, MDX calculated measures with proper aggregation behavior, and centralized business logic accessed via live Power BI connection.
 
